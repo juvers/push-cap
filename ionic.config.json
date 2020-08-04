@@ -1,0 +1,7 @@
+{
+  "name": "push-cap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
