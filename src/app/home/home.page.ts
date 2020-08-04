@@ -1,4 +1,11 @@
 import { Component } from '@angular/core';
+import {
+  Plugins, 
+  PushNotification,
+  PushNotificationToken,
+  PushNotificstionActionPerformed
+} from '@capacitor/core';
+const {PushNotifications} = Plugins;
 
 @Component({
   selector: 'app-home',
